@@ -1,0 +1,7 @@
+Breakpoint 1 at 0x2f8: file source/main.c, line 69.
+Note: automatically using hardware breakpoints for read-only addresses.
+======================================================
+Running all tests..."
+
+"After 0 seconds"..."After 1 second"..."After 2 seconds"..."After 3 seconds"..."After 3 seconds, press"..."After 3 seconds, press, release, press again"...======================================================
+Quitting: Remote doesn't know how to detach
